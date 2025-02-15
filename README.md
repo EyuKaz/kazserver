@@ -20,7 +20,7 @@ Welcome to the **Kaz Web Server** – the server so smooth, it'll make Apache bl
 
 1. Clone this repo (because copying is the sincerest form of flattery):
    ```bash
-   git clone https://github.com/your-username/myphpserver.git
+   git clone https://github.com/EyuKaz/kazserver.git
    ```
 2. Navigate to the project folder:
    ```bash
